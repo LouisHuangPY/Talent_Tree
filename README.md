@@ -1,3 +1,5 @@
+大學專題HOKMAH，以React編寫的網頁平台
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
